@@ -1,0 +1,82 @@
+
+.image1 img {
+    width: 100%;
+    transition: box-shadow 0.5s;
+}
+
+.image1 img:hover {
+    box-shadow: 10px 10px 5px #a2c0be;
+}
+.button a{
+  
+        display: inline-block;
+        margin-top: 2rem;
+        padding: 1rem 3rem;
+        background-color: #a2c0be;
+        color: #fff;
+        border-radius: 3rem;
+        transition: background-color 0.3s ease;
+       
+      
+}
+.our-trainer{
+background-color: #8ab4b2;
+}
+ .trainer img:hover {
+    box-shadow: 10px 10px 5px #080808;
+}
+.social-media-icons {
+    text-align: center;
+    padding-top: 2rem;
+    color: #000;
+}
+
+.icon {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
+.icon:hover {
+    transform: translateY(-1rem);
+}
+.basic{
+background-color: #8ab4b2;
+   
+}
+.premium{
+    background-color: #343a40;
+    
+}
+.professional{
+    background-color: #8ab4b2;
+   
+}
+.image img {
+  
+    transform: scale(1.25);
+    transition: all 0.5s ease;
+   
+}
+
+.image img:hover {
+  
+    transform: scale(1.15);
+}
+.contact-form{
+    background-color:#a2c0be;
+}
+.details{
+    background-color: #6c757d;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 200px;
+    opacity:;
+}
+.foot{
+    opacity: 50%;
+}
